@@ -1,0 +1,16 @@
+PODS:
+  - WWNetworking (0.1.0)
+
+DEPENDENCIES:
+  - WWNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  WWNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WWNetworking: d29f8cfba0b29faa7fa4eddeda8855e5ff4fd3de
+
+PODFILE CHECKSUM: bbb69f3c9601469a0bf182d546d8240d74b6e8f6
+
+COCOAPODS: 1.7.0

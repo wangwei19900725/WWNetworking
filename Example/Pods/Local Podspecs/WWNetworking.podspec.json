@@ -1,0 +1,22 @@
+{
+  "name": "WWNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of WWNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangwei19900725/WWNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangwei19900725": "wei.wang@niu.com"
+  },
+  "source": {
+    "git": "https://github.com/wangwei19900725/WWNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WWNetworking/Classes/**/*"
+}
